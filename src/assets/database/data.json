@@ -1,0 +1,454 @@
+{
+  "maincategory": [
+    {
+      "id": 1,
+      "name": "Male"
+    },
+    {
+      "id": 2,
+      "name": "Female"
+    },
+    {
+      "id": 3,
+      "name": "Kids"
+    }
+  ],
+  "subcategory": [
+    {
+      "name": "Jeans",
+      "id": 1
+    },
+    {
+      "name": "Tshirt",
+      "id": 2
+    },
+    {
+      "name": "Shirt",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Trouer"
+    },
+    {
+      "name": "Shoes",
+      "id": 5
+    }
+  ],
+  "brand": [
+    {
+      "name": "Adidas",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Nike"
+    },
+    {
+      "id": 3,
+      "name": "Polo"
+    },
+    {
+      "name": "Zara",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "Sparky"
+    },
+    {
+      "id": 6,
+      "name": "Tommy Hilfiger"
+    }
+  ],
+  "product": [
+    {
+      "name": "Womens Blue Jeans",
+      "maincategory": "Female",
+      "subcategory": "Jeans",
+      "brand": "Sparky",
+      "color": "Blue",
+      "size": "S",
+      "baseprice": 1497,
+      "discount": 45,
+      "finalprice": 823,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "pr-36.jpg",
+      "pic2": "pr-39.jpg",
+      "pic3": "pr-38.jpg",
+      "pic4": "pr-37.jpg",
+      "id": 1
+    },
+    {
+      "name": "Man  White Shirt",
+      "maincategory": "Male",
+      "subcategory": "Shirt",
+      "brand": "Zara",
+      "color": "White",
+      "size": "L",
+      "baseprice": 2999,
+      "discount": 58,
+      "finalprice": 1259,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "pr-29.jpg",
+      "pic2": "pr-2.jpg",
+      "pic3": "pr3.jpg",
+      "pic4": "pr-23.jpg",
+      "id": 2
+    },
+    {
+      "name": "Man  Black Shirt",
+      "maincategory": "Male",
+      "subcategory": "Tshirt",
+      "brand": "Adidas",
+      "color": "Black",
+      "size": "M",
+      "baseprice": 1999,
+      "discount": 44,
+      "finalprice": 1119,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "pr-31.jpg",
+      "pic2": "pr-34.jpg",
+      "pic3": "pr-25.jpg",
+      "pic4": "pr-15.jpg",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Women White Shirt",
+      "maincategory": "Female",
+      "subcategory": "Shirt",
+      "brand": "Zara",
+      "color": "White",
+      "size": "M",
+      "baseprice": 999,
+      "discount": 30,
+      "finalprice": 699,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "pr-27.jpg",
+      "pic2": "pr-32.jpg",
+      "pic3": "pr-33.jpg",
+      "pic4": "pr-19.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Man Shoes",
+      "maincategory": "Male",
+      "subcategory": "Shoes",
+      "brand": "Nike",
+      "color": "Black",
+      "size": "6",
+      "baseprice": 1999,
+      "discount": 45,
+      "finalprice": 1099,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "gallery-2.jpg",
+      "pic2": "gallery-6.jpg",
+      "pic3": "gallery-3.jpg",
+      "pic4": "pr-38.jpg"
+    },
+    {
+      "name": "Kids Jeans",
+      "maincategory": "Kids",
+      "subcategory": "Jeans",
+      "brand": "Sparky",
+      "color": "Black",
+      "size": "S",
+      "baseprice": 999,
+      "discount": 30,
+      "finalprice": 699,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "pr-17.jpg",
+      "pic2": "pr-17.jpg",
+      "pic3": "pr-5.jpg",
+      "pic4": "pr-4.jpg",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "name": "Kids White Shirt ",
+      "maincategory": "Kids",
+      "subcategory": "Shirt",
+      "brand": "Tommy Hilfiger",
+      "color": "White",
+      "size": "S",
+      "baseprice": 999,
+      "discount": 55,
+      "finalprice": 449,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "pr-6.jpg",
+      "pic2": "pr-26.jpg",
+      "pic3": "pr-30.jpg",
+      "pic4": "pr-9.jpg"
+    }
+  ],
+  "user": [
+    {
+      "id": 0
+    },
+    {
+      "id": 1,
+      "name": "Nitin Chauhan",
+      "username": "nitin",
+      "email": "vishankchauhan@gmail.com",
+      "phone": "9873848046",
+      "password": "Nitin@123",
+      "addressline1": "House Number 5",
+      "addressline2": "Near By Water Plant",
+      "addressline3": "Village XYZ",
+      "pin": "121002",
+      "city": "Faridabad",
+      "state": "Haryana",
+      "pic": "p10.jpg",
+      "role": "User"
+    },
+    {
+      "name": "Vishank Chauhan",
+      "username": "vishank",
+      "email": "vishankchauhan2@gmail.com",
+      "phone": "9873848046",
+      "password": "Vishank@123",
+      "addressline1": "",
+      "addressline2": "",
+      "addressline3": "",
+      "pin": "",
+      "city": "",
+      "state": "",
+      "pic": "",
+      "role": "User",
+      "id": 2
+    }
+  ],
+  "cart": [
+    {
+      "id": 0
+    },
+    {
+      "productid": 1,
+      "userid": "1",
+      "name": "Male Jeans Slim Fit Mufti",
+      "color": "Black",
+      "size": "36",
+      "price": 2508,
+      "qty": 1,
+      "total": 2508,
+      "pic": "p5.jpg",
+      "id": 1
+    }
+  ],
+  "wishlist": [
+    {
+      "id": 0
+    },
+    {
+      "productid": 4,
+      "userid": "1",
+      "name": "Man Jeans Adidas ",
+      "color": "Black",
+      "size": "36",
+      "price": 4339,
+      "pic": "p1.jpg",
+      "id": 1
+    },
+    {
+      "productid": 3,
+      "userid": "1",
+      "name": "Female Tshirt Gucci",
+      "color": "White",
+      "size": "MD",
+      "price": 6375,
+      "pic": "p19.jpg",
+      "id": 2
+    }
+  ],
+  "checkout": [
+    {
+      "id": 0
+    },
+    {
+      "userid": "1",
+      "paymentmode": "COD",
+      "paymentstatus": "Done",
+      "time": "2023-01-17T10:23:28.427Z",
+      "totalAmount": 7753,
+      "shippingAmount": 0,
+      "finalAmount": 7753,
+      "products": [
+        {
+          "productid": 8,
+          "userid": "1",
+          "name": "Kids Tshirt Blue Polo",
+          "color": "Blue",
+          "size": "SM",
+          "price": 864,
+          "qty": 2,
+          "total": 1728,
+          "pic": "p61.jpg",
+          "id": 3
+        },
+        {
+          "productid": 2,
+          "userid": "1",
+          "name": "Male Jeans Regular Fit",
+          "color": "Blue",
+          "size": "36",
+          "price": 3550,
+          "qty": 1,
+          "total": 3550,
+          "pic": "p11.jpg",
+          "id": 4
+        },
+        {
+          "productid": 0,
+          "userid": "1",
+          "name": "Kids Jeans Slim Fit",
+          "color": "Blue",
+          "size": "26",
+          "price": 2475,
+          "qty": 1,
+          "total": 2475,
+          "pic": "p56.jpg",
+          "id": 5
+        }
+      ],
+      "id": 1,
+      "orderstatus": "Delivered"
+    },
+    {
+      "userid": "1",
+      "paymentmode": "COD",
+      "orderstatus": "Order Placed",
+      "paymentstatus": "Pending",
+      "time": "2023-01-18T09:48:51.466Z",
+      "totalAmount": 8883,
+      "shippingAmount": 0,
+      "finalAmount": 8883,
+      "products": [
+        {
+          "productid": 3,
+          "userid": "1",
+          "name": "Female Tshirt Gucci",
+          "color": "White",
+          "size": "MD",
+          "price": 6375,
+          "qty": 1,
+          "total": 6375,
+          "pic": "p19.jpg",
+          "id": 6
+        },
+        {
+          "productid": 1,
+          "userid": "1",
+          "name": "Male Jeans Slim Fit Mufti",
+          "color": "Black",
+          "size": "36",
+          "price": 2508,
+          "qty": 1,
+          "total": 2508,
+          "pic": "p5.jpg",
+          "id": 7
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "contact": [
+    {
+      "id": 0
+    },
+    {
+      "name": "Nitin Chauhan",
+      "email": "vishankchauhan@gmail.com",
+      "phone": "09873848046",
+      "subject": "Test",
+      "message": "dsdsdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd",
+      "status": "Done",
+      "time": "2023-01-19T09:59:46.849Z",
+      "id": 1
+    },
+    {
+      "name": "Nitin Chauhan",
+      "email": "vishankchauhan@gmail.com",
+      "phone": "09873848046",
+      "subject": "Test",
+      "message": "dsdsdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd",
+      "status": "Active",
+      "time": "2023-01-19T09:59:48.790Z",
+      "id": 2
+    },
+    {
+      "name": "Nitin Chauhan",
+      "email": "vishankchauhan@gmail.com",
+      "phone": "09873848046",
+      "subject": "Test",
+      "message": "dsdsdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd",
+      "status": "Done",
+      "time": "2023-01-19T09:59:49.531Z",
+      "id": 3
+    },
+    {
+      "name": "Nitin Chauhan",
+      "email": "vishankchauhan@gmail.com",
+      "phone": "09873848046",
+      "subject": "Test",
+      "message": "dsdsdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd",
+      "status": "Done",
+      "time": "2023-01-19T09:59:49.691Z",
+      "id": 4
+    },
+    {
+      "name": "Nitin Chauhan",
+      "email": "vishankchauhan@gmail.com",
+      "phone": "09873848046",
+      "subject": "Test",
+      "message": "dsdsdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd",
+      "status": "Active",
+      "time": "2023-01-19T09:59:49.811Z",
+      "id": 5
+    },
+    {
+      "name": "Nitin Chauhan",
+      "email": "vishankchauhan@gmail.com",
+      "phone": "09873848046",
+      "subject": "Test",
+      "message": "dsdsdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd",
+      "status": "Active",
+      "time": "2023-01-19T09:59:49.963Z",
+      "id": 6
+    },
+    {
+      "name": "Nitin Chauhan",
+      "email": "vishankchauhan@gmail.com",
+      "phone": "09873848046",
+      "subject": "Test",
+      "message": "dsdsdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd",
+      "status": "Active",
+      "time": "2023-01-19T09:59:50.068Z",
+      "id": 7
+    }
+  ],
+  "newslatter": [
+    {
+      "id": 0
+    },
+    {
+      "email": "vishankchauhan@gmail.com",
+      "id": 1
+    },
+    {
+      "email": "vishankchauhan2@gmail.com",
+      "id": 2
+    },
+    {
+      "email": "vishankchauhan@gmail.com3",
+      "id": 3
+    }
+  ]
+}
